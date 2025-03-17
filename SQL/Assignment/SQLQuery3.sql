@@ -12,3 +12,10 @@ e.dob as employee_dob,
 e.license as employee_license,
 e.passport as employee_passport 
 from employee e
+
+update employee set name = 'vinay', mobilenumber = 9874563645, license = 'lic456', passport = 'psp686'
+where id = 102
+
+select * from employee
+
+delete from employee where id = 101
