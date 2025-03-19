@@ -246,7 +246,7 @@ from customer c
 select customer_id
 from booking
 where event_id in (
-select event_id from event where venue_id = 'some_venue_id'
+select event_id from event where venue_id = 3
 )
 
 select event_type,
