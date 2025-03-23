@@ -4,7 +4,7 @@ use payxpert
 
 create table employee
 (
-employeeid int primary key not null,
+employeeid int identity(1,1) primary key not null,
 firstname varchar(255),
 lastname varchar(255),
 dateofbirth date not null,
@@ -19,8 +19,8 @@ terminationdate date
 
 create table payroll
 (
-payrollid int primary key not null,
-employeeid int not null,
+payrollid int identity(1,1) primary key not null,
+employeeid int identity(1,1) not null,
 constraint fk_payroll_employee foreign key (employeeid) references employee(employeeid),
 payperiodstartdate date not null,
 payperiodenddate date not null,
@@ -32,8 +32,8 @@ netsalary int not null
 
 create table tax
 (
-taxid int primary key not null,
-employeeid int not null,
+taxid int identity(1,1) primary key not null,
+employeeid int identity(1,1) not null,
 constraint fk_tax_employee foreign key (employeeid) references employee(employeeid),
 taxyear int not null,
 taxableincome int not null,
@@ -42,8 +42,8 @@ taxamount int not null
 
 create table financialrecord
 (
-recordid int primary key not null,
-employeeid int not null,
+recordid int identity(1,1) primary key not null,
+employeeid int identity(1,1) not null,
 constraint fk_financialrecord_employee foreign key (employeeid) references employee(employeeid),
 recorddate date not null,
 description varchar(255),
