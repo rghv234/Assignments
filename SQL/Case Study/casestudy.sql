@@ -11,7 +11,7 @@ dateofbirth date not null,
 gender varchar(50),
 email varchar(255),
 phonenumber varchar(20) not null,
-address varchar(255),
+address text not null,
 position varchar(255),
 joiningdate date not null,
 terminationdate date
