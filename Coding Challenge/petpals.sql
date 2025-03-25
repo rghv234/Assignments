@@ -112,7 +112,7 @@ GROUP BY FORMAT(DonationDate, 'MMMM yyyy')
 
 SELECT DISTINCT Breed 
 FROM pets 
-WHERE Age BETWEEN 1 AND 3 AND Age > 5  -- Note: This condition is logically impossible
+WHERE Age BETWEEN 1 AND 3 AND Age > 5  
 
 SELECT shelters.Name, COUNT(pets.PetID) AS pets_available
 FROM shelters
