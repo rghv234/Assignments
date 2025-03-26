@@ -1,0 +1,6 @@
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\NamespaceLibrary\bin\Debug\NamespaceLibrary.dll
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\NamespaceLibrary\bin\Debug\NamespaceLibrary.pdb
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\NamespaceLibrary\obj\Debug\NamespaceLibrary.csproj.AssemblyReference.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\NamespaceLibrary\obj\Debug\NamespaceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\NamespaceLibrary\obj\Debug\NamespaceLibrary.dll
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\NamespaceLibrary\obj\Debug\NamespaceLibrary.pdb

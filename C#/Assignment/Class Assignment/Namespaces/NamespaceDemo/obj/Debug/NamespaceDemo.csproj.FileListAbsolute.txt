@@ -1,0 +1,10 @@
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\NamespaceDemo\bin\Debug\NamespaceDemo.exe.config
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\NamespaceDemo\bin\Debug\NamespaceDemo.exe
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\NamespaceDemo\bin\Debug\NamespaceDemo.pdb
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\NamespaceDemo\bin\Debug\NamespaceLibrary.dll
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\NamespaceDemo\bin\Debug\NamespaceLibrary.pdb
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\NamespaceDemo\obj\Debug\NamespaceDemo.csproj.AssemblyReference.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\NamespaceDemo\obj\Debug\NamespaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\NamespaceDemo\obj\Debug\Namespac.0FE1E977.Up2Date
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\NamespaceDemo\obj\Debug\NamespaceDemo.exe
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\NamespaceDemo\obj\Debug\NamespaceDemo.pdb
