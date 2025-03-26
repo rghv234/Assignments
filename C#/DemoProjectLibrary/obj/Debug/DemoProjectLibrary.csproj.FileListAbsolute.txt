@@ -1,0 +1,6 @@
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DemoProjectLibrary\bin\Debug\DemoProjectLibrary.dll
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DemoProjectLibrary\bin\Debug\DemoProjectLibrary.pdb
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DemoProjectLibrary\obj\Debug\DemoProjectLibrary.csproj.AssemblyReference.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DemoProjectLibrary\obj\Debug\DemoProjectLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DemoProjectLibrary\obj\Debug\DemoProjectLibrary.dll
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DemoProjectLibrary\obj\Debug\DemoProjectLibrary.pdb

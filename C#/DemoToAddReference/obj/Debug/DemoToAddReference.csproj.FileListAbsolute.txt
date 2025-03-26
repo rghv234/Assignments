@@ -1,0 +1,10 @@
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DemoToAddReference\bin\Debug\DemoToAddReference.pdb
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DemoToAddReference\bin\Debug\DemoProjectLibrary.dll
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DemoToAddReference\bin\Debug\DemoProjectLibrary.pdb
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DemoToAddReference\obj\Debug\DemoToAddReference.csproj.AssemblyReference.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DemoToAddReference\obj\Debug\DemoToAddReference.csproj.CoreCompileInputs.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DemoToAddReference\obj\Debug\DemoToAd.BD20A959.Up2Date
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DemoToAddReference\obj\Debug\DemoToAddReference.pdb
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DemoToAddReference\bin\Debug\DemoToAddReference.exe.config
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DemoToAddReference\bin\Debug\DemoToAddReference.exe
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DemoToAddReference\obj\Debug\DemoToAddReference.exe
