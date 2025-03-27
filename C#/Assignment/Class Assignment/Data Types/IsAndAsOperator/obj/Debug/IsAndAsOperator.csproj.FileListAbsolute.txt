@@ -1,0 +1,7 @@
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\IsAndAsOperator\bin\Debug\IsAndAsOperator.exe.config
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\IsAndAsOperator\bin\Debug\IsAndAsOperator.exe
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\IsAndAsOperator\bin\Debug\IsAndAsOperator.pdb
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\IsAndAsOperator\obj\Debug\IsAndAsOperator.csproj.AssemblyReference.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\IsAndAsOperator\obj\Debug\IsAndAsOperator.csproj.CoreCompileInputs.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\IsAndAsOperator\obj\Debug\IsAndAsOperator.exe
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\IsAndAsOperator\obj\Debug\IsAndAsOperator.pdb
