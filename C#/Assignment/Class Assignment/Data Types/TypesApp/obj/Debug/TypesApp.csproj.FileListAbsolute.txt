@@ -1,0 +1,7 @@
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\TypesApp\bin\Debug\TypesApp.exe.config
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\TypesApp\bin\Debug\TypesApp.exe
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\TypesApp\bin\Debug\TypesApp.pdb
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\TypesApp\obj\Debug\TypesApp.csproj.AssemblyReference.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\TypesApp\obj\Debug\TypesApp.csproj.CoreCompileInputs.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\TypesApp\obj\Debug\TypesApp.exe
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\TypesApp\obj\Debug\TypesApp.pdb
