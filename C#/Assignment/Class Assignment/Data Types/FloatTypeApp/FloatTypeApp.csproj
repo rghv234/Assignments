@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9C34C5CB-C5BD-4C0A-BD82-2252BD55824F}</ProjectGuid>
+    <ProjectGuid>{82FF4C59-3B97-42A6-9D94-D4E95600F20D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TypesApp</RootNamespace>
-    <AssemblyName>TypesApp</AssemblyName>
+    <RootNamespace>FloatTypeApp</RootNamespace>
+    <AssemblyName>FloatTypeApp</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
