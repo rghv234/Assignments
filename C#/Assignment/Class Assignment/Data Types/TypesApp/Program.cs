@@ -39,6 +39,7 @@ namespace TypesApp
 
             //formatting output with functions
             Console.WriteLine("Math \t Science \t English \t Total \n {0} \t {1} \t\t {2} \t\t {3}", mark_math, mark_science, mark_english, Total_Marks);
+            string.Format("Math \t Science \t English \t Total \n {0} \t {1} \t\t {2} \t\t {3}", mark_math, mark_science, mark_english, Total_Marks);
 
             Console.ReadKey();
         }
