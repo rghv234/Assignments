@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -39,7 +39,8 @@ namespace TypesApp
 
             //formatting output with functions
             Console.WriteLine("Math \t Science \t English \t Total \n {0} \t {1} \t\t {2} \t\t {3}", mark_math, mark_science, mark_english, Total_Marks);
-            string.Format("Math \t Science \t English \t Total \n {0} \t {1} \t\t {2} \t\t {3}", mark_math, mark_science, mark_english, Total_Marks);
+            string tableFormat = string.Format("Math \t Science \t English \t Total \n {0} \t {1} \t\t {2} \t\t {3}", mark_math, mark_science, mark_english, Total_Marks);
+            Console.WriteLine(tableFormat);
 
             Console.ReadKey();
         }
