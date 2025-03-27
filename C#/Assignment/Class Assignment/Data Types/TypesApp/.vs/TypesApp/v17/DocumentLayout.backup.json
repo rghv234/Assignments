@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\TypesApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C34C5CB-C5BD-4C0A-BD82-2252BD55824F}|TypesApp.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\typesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C34C5CB-C5BD-4C0A-BD82-2252BD55824F}|TypesApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B86EBE4-650D-4B32-A124-458337821A82}|..\\ObjectBaseTypeForObjectsAndReferenceTypes\\ObjectBaseTypeForObjectsAndReferenceTypes.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\objectbasetypeforobjectsandreferencetypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +23,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\TypesApp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\TypesApp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABeAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\ObjectBaseTypeForObjectsAndReferenceTypes\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ObjectBaseTypeForObjectsAndReferenceTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\ObjectBaseTypeForObjectsAndReferenceTypes\\Program.cs",
+              "RelativeToolTip": "..\\ObjectBaseTypeForObjectsAndReferenceTypes\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T10:40:23.671Z",
+              "WhenOpened": "2025-03-27T06:06:09.439Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,7 @@
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\TryAndTryParse\bin\Debug\TryAndTryParse.exe.config
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\TryAndTryParse\bin\Debug\TryAndTryParse.exe
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\TryAndTryParse\bin\Debug\TryAndTryParse.pdb
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\TryAndTryParse\obj\Debug\TryAndTryParse.csproj.AssemblyReference.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\TryAndTryParse\obj\Debug\TryAndTryParse.csproj.CoreCompileInputs.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\TryAndTryParse\obj\Debug\TryAndTryParse.exe
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\TryAndTryParse\obj\Debug\TryAndTryParse.pdb

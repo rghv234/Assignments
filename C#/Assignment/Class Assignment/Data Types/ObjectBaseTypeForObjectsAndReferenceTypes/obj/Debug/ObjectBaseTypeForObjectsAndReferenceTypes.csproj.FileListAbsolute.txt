@@ -1,0 +1,7 @@
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\ObjectBaseTypeForObjectsAndReferenceTypes\bin\Debug\ObjectBaseTypeForObjectsAndReferenceTypes.exe.config
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\ObjectBaseTypeForObjectsAndReferenceTypes\bin\Debug\ObjectBaseTypeForObjectsAndReferenceTypes.exe
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\ObjectBaseTypeForObjectsAndReferenceTypes\bin\Debug\ObjectBaseTypeForObjectsAndReferenceTypes.pdb
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\ObjectBaseTypeForObjectsAndReferenceTypes\obj\Debug\ObjectBaseTypeForObjectsAndReferenceTypes.csproj.AssemblyReference.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\ObjectBaseTypeForObjectsAndReferenceTypes\obj\Debug\ObjectBaseTypeForObjectsAndReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\ObjectBaseTypeForObjectsAndReferenceTypes\obj\Debug\ObjectBaseTypeForObjectsAndReferenceTypes.exe
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\ObjectBaseTypeForObjectsAndReferenceTypes\obj\Debug\ObjectBaseTypeForObjectsAndReferenceTypes.pdb
