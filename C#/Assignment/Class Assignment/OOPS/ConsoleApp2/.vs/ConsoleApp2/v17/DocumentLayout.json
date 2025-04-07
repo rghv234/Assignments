@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\ConsoleApp2\\",
+  "WorkspaceRootPath": "C:\\Users\\Raghav Govindarajan\\OneDrive\\Documents\\GitHub\\Assignments\\C#\\Assignment\\Class Assignment\\OOPS\\ConsoleApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E2EE839-9580-400A-9585-75391AD84F40}|ConsoleApp2.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\consoleapp2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E2EE839-9580-400A-9585-75391AD84F40}|ConsoleApp2.csproj|c:\\users\\raghav govindarajan\\onedrive\\documents\\github\\assignments\\c#\\assignment\\class assignment\\oops\\consoleapp2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E2EE839-9580-400A-9585-75391AD84F40}|ConsoleApp2.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\ConsoleApp2\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\OneDrive\\Documents\\GitHub\\Assignments\\C#\\Assignment\\Class Assignment\\OOPS\\ConsoleApp2\\Employee.cs",
               "RelativeDocumentMoniker": "Employee.cs",
-              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\ConsoleApp2\\Employee.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\OneDrive\\Documents\\GitHub\\Assignments\\C#\\Assignment\\Class Assignment\\OOPS\\ConsoleApp2\\Employee.cs",
               "RelativeToolTip": "Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

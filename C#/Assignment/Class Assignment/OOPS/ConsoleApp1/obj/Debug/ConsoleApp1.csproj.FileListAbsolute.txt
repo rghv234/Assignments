@@ -5,3 +5,7 @@ C:\Users\Raghav Govindarajan\source\repos\C#Demos\ConsoleApp1\bin\Debug\ConsoleA
 C:\Users\Raghav Govindarajan\source\repos\C#Demos\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
 C:\Users\Raghav Govindarajan\source\repos\C#Demos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\Raghav Govindarajan\source\repos\C#Demos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Raghav Govindarajan\OneDrive\Documents\GitHub\Assignments\C#\Assignment\Class Assignment\OOPS\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Raghav Govindarajan\OneDrive\Documents\GitHub\Assignments\C#\Assignment\Class Assignment\OOPS\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Raghav Govindarajan\OneDrive\Documents\GitHub\Assignments\C#\Assignment\Class Assignment\OOPS\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Raghav Govindarajan\OneDrive\Documents\GitHub\Assignments\C#\Assignment\Class Assignment\OOPS\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

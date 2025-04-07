@@ -1,0 +1,7 @@
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\Static\bin\Debug\Static.exe.config
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\Static\bin\Debug\Static.exe
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\Static\bin\Debug\Static.pdb
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\Static\obj\Debug\Static.csproj.AssemblyReference.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\Static\obj\Debug\Static.csproj.CoreCompileInputs.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\Static\obj\Debug\Static.exe
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\Static\obj\Debug\Static.pdb
