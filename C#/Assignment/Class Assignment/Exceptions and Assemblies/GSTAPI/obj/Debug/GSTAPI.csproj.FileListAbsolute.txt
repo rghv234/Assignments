@@ -1,0 +1,6 @@
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\GSTAPI\bin\Debug\GSTAPI.dll
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\GSTAPI\bin\Debug\GSTAPI.pdb
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\GSTAPI\obj\Debug\GSTAPI.csproj.AssemblyReference.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\GSTAPI\obj\Debug\GSTAPI.csproj.CoreCompileInputs.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\GSTAPI\obj\Debug\GSTAPI.dll
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\GSTAPI\obj\Debug\GSTAPI.pdb

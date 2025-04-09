@@ -1,0 +1,7 @@
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DelegateLambdaAnonymous\bin\Debug\DelegateLambdaAnonymous.exe.config
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DelegateLambdaAnonymous\bin\Debug\DelegateLambdaAnonymous.exe
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DelegateLambdaAnonymous\bin\Debug\DelegateLambdaAnonymous.pdb
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DelegateLambdaAnonymous\obj\Debug\DelegateLambdaAnonymous.csproj.AssemblyReference.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DelegateLambdaAnonymous\obj\Debug\DelegateLambdaAnonymous.csproj.CoreCompileInputs.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DelegateLambdaAnonymous\obj\Debug\DelegateLambdaAnonymous.exe
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\DelegateLambdaAnonymous\obj\Debug\DelegateLambdaAnonymous.pdb

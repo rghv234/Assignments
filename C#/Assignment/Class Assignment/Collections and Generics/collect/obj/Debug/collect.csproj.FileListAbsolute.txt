@@ -1,0 +1,7 @@
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\collect\bin\Debug\collect.exe.config
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\collect\bin\Debug\collect.exe
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\collect\bin\Debug\collect.pdb
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\collect\obj\Debug\collect.csproj.AssemblyReference.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\collect\obj\Debug\collect.csproj.CoreCompileInputs.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\collect\obj\Debug\collect.exe
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\collect\obj\Debug\collect.pdb

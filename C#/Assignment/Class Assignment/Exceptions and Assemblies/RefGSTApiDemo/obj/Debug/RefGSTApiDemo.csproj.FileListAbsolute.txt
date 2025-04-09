@@ -1,0 +1,10 @@
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\RefGSTApiDemo\bin\Debug\RefGSTApiDemo.exe.config
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\RefGSTApiDemo\bin\Debug\RefGSTApiDemo.exe
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\RefGSTApiDemo\bin\Debug\RefGSTApiDemo.pdb
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\RefGSTApiDemo\bin\Debug\GSTAPI.dll
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\RefGSTApiDemo\bin\Debug\GSTAPI.pdb
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\RefGSTApiDemo\obj\Debug\RefGSTApiDemo.csproj.AssemblyReference.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\RefGSTApiDemo\obj\Debug\RefGSTApiDemo.csproj.CoreCompileInputs.cache
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\RefGSTApiDemo\obj\Debug\RefGSTAp.34A56003.Up2Date
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\RefGSTApiDemo\obj\Debug\RefGSTApiDemo.exe
+C:\Users\Raghav Govindarajan\source\repos\C#Demos\RefGSTApiDemo\obj\Debug\RefGSTApiDemo.pdb
