@@ -1,7 +1,0 @@
-C:\Users\Raghav Govindarajan\source\repos\C#Demos\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
-C:\Users\Raghav Govindarajan\source\repos\C#Demos\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
-C:\Users\Raghav Govindarajan\source\repos\C#Demos\Entity\bin\Debug\Entity.exe.config
-C:\Users\Raghav Govindarajan\source\repos\C#Demos\Entity\bin\Debug\Entity.exe
-C:\Users\Raghav Govindarajan\source\repos\C#Demos\Entity\bin\Debug\Entity.pdb
-C:\Users\Raghav Govindarajan\source\repos\C#Demos\Entity\obj\Debug\Entity.exe
-C:\Users\Raghav Govindarajan\source\repos\C#Demos\Entity\obj\Debug\Entity.pdb

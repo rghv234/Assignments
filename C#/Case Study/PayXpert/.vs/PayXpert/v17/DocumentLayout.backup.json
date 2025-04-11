@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\payxpert\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\payxpert\\dao\\payrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|solutionrelative:dao\\payrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\payxpert\\dao\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|solutionrelative:dao\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\payxpert\\dao\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|solutionrelative:dao\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\payxpert\\dao\\taxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|solutionrelative:dao\\taxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\payxpert\\entities\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|solutionrelative:entities\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\payxpert\\dao\\ipayrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|solutionrelative:dao\\ipayrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\payxpert\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|solutionrelative:main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\payxpert\\exception\\taxcalculationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|solutionrelative:exception\\taxcalculationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\payxpert\\exception\\payrollgenerationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|solutionrelative:exception\\payrollgenerationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\payxpert\\exception\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|solutionrelative:exception\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\payxpert\\exception\\financialrecordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|solutionrelative:exception\\financialrecordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\payxpert\\exception\\employeenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|solutionrelative:exception\\employeenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\payxpert\\exception\\databaseconnectionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|solutionrelative:exception\\databaseconnectionexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\payxpert\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|solutionrelative:entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\payxpert\\dao\\financialrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|solutionrelative:dao\\financialrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\payxpert\\dao\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|solutionrelative:dao\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\payxpert\\dao\\ifinancialrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|solutionrelative:dao\\ifinancialrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\payxpert\\dao\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|solutionrelative:dao\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\payxpert\\entities\\financialrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|solutionrelative:entities\\financialrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\payxpert\\entities\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|solutionrelative:entities\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\payxpert\\util\\configurationutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AB0AA4-5756-42A2-89D1-3DA756D0377F}|PayXpert.csproj|solutionrelative:util\\configurationutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appSettings.json",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\appSettings.json",
+              "RelativeDocumentMoniker": "appSettings.json",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\appSettings.json",
+              "RelativeToolTip": "appSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T12:35:07.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaxCalculationException.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Exception\\TaxCalculationException.cs",
+              "RelativeDocumentMoniker": "Exception\\TaxCalculationException.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Exception\\TaxCalculationException.cs",
+              "RelativeToolTip": "Exception\\TaxCalculationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:13:30.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Main\\Program.cs",
+              "RelativeDocumentMoniker": "Main\\Program.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Main\\Program.cs",
+              "RelativeToolTip": "Main\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:09:42.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Payroll.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Entities\\Payroll.cs",
+              "RelativeDocumentMoniker": "Entities\\Payroll.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Entities\\Payroll.cs",
+              "RelativeToolTip": "Entities\\Payroll.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:12:12.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PayrollService.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\DAO\\PayrollService.cs",
+              "RelativeDocumentMoniker": "DAO\\PayrollService.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\DAO\\PayrollService.cs",
+              "RelativeToolTip": "DAO\\PayrollService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:16:52.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPayrollService.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\DAO\\IPayrollService.cs",
+              "RelativeDocumentMoniker": "DAO\\IPayrollService.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\DAO\\IPayrollService.cs",
+              "RelativeToolTip": "DAO\\IPayrollService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:15:21.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaxService.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\DAO\\TaxService.cs",
+              "RelativeDocumentMoniker": "DAO\\TaxService.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\DAO\\TaxService.cs",
+              "RelativeToolTip": "DAO\\TaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:17:07.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\DAO\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "DAO\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\DAO\\DatabaseContext.cs",
+              "RelativeToolTip": "DAO\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:17:34.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\DAO\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "DAO\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\DAO\\EmployeeService.cs",
+              "RelativeToolTip": "DAO\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:16:28.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PayrollGenerationException.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Exception\\PayrollGenerationException.cs",
+              "RelativeDocumentMoniker": "Exception\\PayrollGenerationException.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Exception\\PayrollGenerationException.cs",
+              "RelativeToolTip": "Exception\\PayrollGenerationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:13:16.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InvalidInputException.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Exception\\InvalidInputException.cs",
+              "RelativeDocumentMoniker": "Exception\\InvalidInputException.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Exception\\InvalidInputException.cs",
+              "RelativeToolTip": "Exception\\InvalidInputException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:13:55.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FinancialRecordException.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Exception\\FinancialRecordException.cs",
+              "RelativeDocumentMoniker": "Exception\\FinancialRecordException.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Exception\\FinancialRecordException.cs",
+              "RelativeToolTip": "Exception\\FinancialRecordException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:13:44.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Exception\\EmployeeNotFoundException.cs",
+              "RelativeDocumentMoniker": "Exception\\EmployeeNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Exception\\EmployeeNotFoundException.cs",
+              "RelativeToolTip": "Exception\\EmployeeNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:13:03.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DatabaseConnectionException.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Exception\\DatabaseConnectionException.cs",
+              "RelativeDocumentMoniker": "Exception\\DatabaseConnectionException.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Exception\\DatabaseConnectionException.cs",
+              "RelativeToolTip": "Exception\\DatabaseConnectionException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:14:08.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Entities\\Employee.cs",
+              "RelativeToolTip": "Entities\\Employee.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwDwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:11:56.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FinancialRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\DAO\\FinancialRecordService.cs",
+              "RelativeDocumentMoniker": "DAO\\FinancialRecordService.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\DAO\\FinancialRecordService.cs",
+              "RelativeToolTip": "DAO\\FinancialRecordService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAqwGYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:17:20.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\DAO\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "DAO\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\DAO\\IEmployeeService.cs",
+              "RelativeToolTip": "DAO\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:15:03.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IFinancialRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\DAO\\IFinancialRecordService.cs",
+              "RelativeDocumentMoniker": "DAO\\IFinancialRecordService.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\DAO\\IFinancialRecordService.cs",
+              "RelativeToolTip": "DAO\\IFinancialRecordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:16:15.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\DAO\\ITaxService.cs",
+              "RelativeDocumentMoniker": "DAO\\ITaxService.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\DAO\\ITaxService.cs",
+              "RelativeToolTip": "DAO\\ITaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:15:59.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FinancialRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Entities\\FinancialRecord.cs",
+              "RelativeDocumentMoniker": "Entities\\FinancialRecord.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Entities\\FinancialRecord.cs",
+              "RelativeToolTip": "Entities\\FinancialRecord.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:12:44.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Tax.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Entities\\Tax.cs",
+              "RelativeDocumentMoniker": "Entities\\Tax.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Entities\\Tax.cs",
+              "RelativeToolTip": "Entities\\Tax.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:12:24.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ConfigurationUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Util\\ConfigurationUtil.cs",
+              "RelativeDocumentMoniker": "Util\\ConfigurationUtil.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\PayXpert\\Util\\ConfigurationUtil.cs",
+              "RelativeToolTip": "Util\\ConfigurationUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:14:37.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
