@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{596A61D3-A2B8-4FD6-8723-755E3CDC1211}|HospitalManagement.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\hospitalmanagement\\dao\\hospitalserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596A61D3-A2B8-4FD6-8723-755E3CDC1211}|HospitalManagement.csproj|solutionrelative:dao\\hospitalserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596A61D3-A2B8-4FD6-8723-755E3CDC1211}|HospitalManagement.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\hospitalmanagement\\main\\mainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596A61D3-A2B8-4FD6-8723-755E3CDC1211}|HospitalManagement.csproj|solutionrelative:main\\mainmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596A61D3-A2B8-4FD6-8723-755E3CDC1211}|HospitalManagement.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\hospitalmanagement\\dao\\ihospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596A61D3-A2B8-4FD6-8723-755E3CDC1211}|HospitalManagement.csproj|solutionrelative:dao\\ihospitalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596A61D3-A2B8-4FD6-8723-755E3CDC1211}|HospitalManagement.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\hospitalmanagement\\exception\\patientnumbernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596A61D3-A2B8-4FD6-8723-755E3CDC1211}|HospitalManagement.csproj|solutionrelative:exception\\patientnumbernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596A61D3-A2B8-4FD6-8723-755E3CDC1211}|HospitalManagement.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\hospitalmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{596A61D3-A2B8-4FD6-8723-755E3CDC1211}|HospitalManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596A61D3-A2B8-4FD6-8723-755E3CDC1211}|HospitalManagement.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\hospitalmanagement\\entity\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596A61D3-A2B8-4FD6-8723-755E3CDC1211}|HospitalManagement.csproj|solutionrelative:entity\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596A61D3-A2B8-4FD6-8723-755E3CDC1211}|HospitalManagement.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\hospitalmanagement\\entity\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596A61D3-A2B8-4FD6-8723-755E3CDC1211}|HospitalManagement.csproj|solutionrelative:entity\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596A61D3-A2B8-4FD6-8723-755E3CDC1211}|HospitalManagement.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\hospitalmanagement\\entity\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596A61D3-A2B8-4FD6-8723-755E3CDC1211}|HospitalManagement.csproj|solutionrelative:entity\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596A61D3-A2B8-4FD6-8723-755E3CDC1211}|HospitalManagement.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\hospitalmanagement\\util\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596A61D3-A2B8-4FD6-8723-755E3CDC1211}|HospitalManagement.csproj|solutionrelative:util\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|HospitalManagement||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596A61D3-A2B8-4FD6-8723-755E3CDC1211}|HospitalManagement.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\hospitalmanagement\\util\\propertyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{596A61D3-A2B8-4FD6-8723-755E3CDC1211}|HospitalManagement.csproj|solutionrelative:util\\propertyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{596A61D3-A2B8-4FD6-8723-755E3CDC1211}|HospitalManagement.csproj|c:\\users\\raghav govindarajan\\source\\repos\\c#demos\\hospitalmanagement\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HospitalServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\dao\\HospitalServiceImpl.cs",
+              "RelativeDocumentMoniker": "dao\\HospitalServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\dao\\HospitalServiceImpl.cs",
+              "RelativeToolTip": "dao\\HospitalServiceImpl.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:01:51.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainModule.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\main\\MainModule.cs",
+              "RelativeDocumentMoniker": "main\\MainModule.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\main\\MainModule.cs",
+              "RelativeToolTip": "main\\MainModule.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:47:12.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IHospitalService.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\dao\\IHospitalService.cs",
+              "RelativeDocumentMoniker": "dao\\IHospitalService.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\dao\\IHospitalService.cs",
+              "RelativeToolTip": "dao\\IHospitalService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T05:10:35.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\entity\\Doctor.cs",
+              "RelativeDocumentMoniker": "entity\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\entity\\Doctor.cs",
+              "RelativeToolTip": "entity\\Doctor.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:57:01.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\util\\DBConnection.cs",
+              "RelativeDocumentMoniker": "util\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\util\\DBConnection.cs",
+              "RelativeToolTip": "util\\DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T05:39:44.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HospitalManagement",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\HospitalManagement.csproj",
+              "RelativeDocumentMoniker": "HospitalManagement.csproj",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\HospitalManagement.csproj",
+              "RelativeToolTip": "HospitalManagement.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-17T06:34:45.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\entity\\Patient.cs",
+              "RelativeDocumentMoniker": "entity\\Patient.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\entity\\Patient.cs",
+              "RelativeToolTip": "entity\\Patient.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T04:49:22.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T05:54:58.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientNumberNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\exception\\PatientNumberNotFoundException.cs",
+              "RelativeDocumentMoniker": "exception\\PatientNumberNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\exception\\PatientNumberNotFoundException.cs",
+              "RelativeToolTip": "exception\\PatientNumberNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T05:41:03.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PropertyUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\util\\PropertyUtil.cs",
+              "RelativeDocumentMoniker": "util\\PropertyUtil.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\util\\PropertyUtil.cs",
+              "RelativeToolTip": "util\\PropertyUtil.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T05:37:52.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\entity\\Appointment.cs",
+              "RelativeDocumentMoniker": "entity\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Raghav Govindarajan\\source\\repos\\C#Demos\\HospitalManagement\\entity\\Appointment.cs",
+              "RelativeToolTip": "entity\\Appointment.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T07:15:47.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

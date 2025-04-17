@@ -1,0 +1,2 @@
+ALTER DATABASE hospitalmanagement SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+DROP DATABASE hospitalmanagement
