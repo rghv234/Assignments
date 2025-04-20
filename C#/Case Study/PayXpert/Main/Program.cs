@@ -28,7 +28,6 @@ namespace PayXpert
                     Address = "123 Main St", // Required since address is NOT NULL
                     Position = "Software Engineer", // Required since position is NOT NULL
                     JoiningDate = new DateTime(2020, 1, 1),
-                    TerminationDate = new DateTime(9999, 12, 31) // Required since terminationdate is NOT NULL, set to far future for active employees
                 };
 
                 // Add employee

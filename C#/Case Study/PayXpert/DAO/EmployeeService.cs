@@ -78,10 +78,9 @@ namespace PayXpert.DAO
             {
                 // Check the last used employeeid and increment if IDENTITY is not working
                 int newEmployeeId = GetNextEmployeeId(db);
-                string query = "INSERT INTO employee (employeeid, firstname, lastname, dateofbirth, gender, email, phonenumber, address, position, joiningdate, terminationdate) " +
-                               "OUTPUT INSERTED.employeeid VALUES (@EmployeeID, @FirstName, @LastName, @DateOfBirth, @Gender, @Email, @PhoneNumber, @Address, @Position, @JoiningDate, @TerminationDate)";
+                string query = "INSERT INTO employee (firstname, lastname, dateofbirth, gender, email, phonenumber, address, position, joiningdate, terminationdate) " +
+                               "OUTPUT INSERTED.employeeid VALUES (@FirstName, @LastName, @DateOfBirth, @Gender, @Email, @PhoneNumber, @Address, @Position, @JoiningDate, @TerminationDate)";
                 SqlParameter[] parameters = {
-                    new SqlParameter("@EmployeeID", newEmployeeId),
                     new SqlParameter("@FirstName", (object)employeeData.FirstName ?? DBNull.Value),
                     new SqlParameter("@LastName", (object)employeeData.LastName ?? DBNull.Value),
                     new SqlParameter("@DateOfBirth", employeeData.DateOfBirth),

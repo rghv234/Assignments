@@ -22,11 +22,10 @@ namespace PayXpert.DAO
 
                 // Check the last used payrollid and increment if IDENTITY is not working
                 int newPayrollId = GetNextPayrollId(db);
-                string query = "INSERT INTO payroll (payrollid, employeeid, payperiodstartdate, payperiodenddate, basicsalary, overtimepay, deductions, netsalary) " +
-                               "OUTPUT INSERTED.payrollid VALUES (@PayrollID, @EmployeeID, @StartDate, @EndDate, @BasicSalary, @OvertimePay, @Deductions, @NetSalary)";
+                string query = "INSERT INTO payroll (employeeid, payperiodstartdate, payperiodenddate, basicsalary, overtimepay, deductions, netsalary) " +
+                               "OUTPUT INSERTED.payrollid VALUES (@EmployeeId, @StartDate, @EndDate, @BasicSalary, @OvertimePay, @Deductions, @NetSalary)";
                 SqlParameter[] parameters = {
-                    new SqlParameter("@PayrollID", newPayrollId),
-                    new SqlParameter("@EmployeeID", employeeId),
+                    new SqlParameter("@EmployeeId", employeeId),
                     new SqlParameter("@StartDate", startDate),
                     new SqlParameter("@EndDate", endDate),
                     new SqlParameter("@BasicSalary", basicSalary),
