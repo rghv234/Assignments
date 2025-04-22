@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accessing HTML Elements</title>
+    <style>
+        #myPara{
+            background-color: red;
+        }
+        #heading2{
+            background-color: green;
+        }
+        div{
+            background-color: blue;
+        }
+    </style>
+    <script>
+        function AccessElementsById(){
+            //access elements by id
+            const elementById = document.getElementById("heading2")
+            elementById.innerHTML = "This is new Heading"
+        }
+        
+        function AccessElementByClass(){
+            //access by class
+            const elementByClass = document.getElementsByClassName("myPara")
+            elementByClass.innerHTML="This is new Paragraph"
+        }
+        
+
+       function AccessElementByTag(){
+            //accessing element by tag name
+            const elementByTag = document.getElementsByTagName("div")
+            elementByTag.innerHTML="This is new Div"
+       }
+    </script>
+</head>
+<body>
+    <h2 id="heading2">This is heading2</h2>
+    <p id="myPara">this is paragraph</p>
+    <div>this is div</div>
+
+    <button onclick="AccessElementsById()">Access Element By Id</button>
+    <button onclick="AccessElementByClass()">Access Element By Class</button>
+    <button onclick="AccessElementByTag()">Access Element By Tag</button>
+</body>
+</html>
