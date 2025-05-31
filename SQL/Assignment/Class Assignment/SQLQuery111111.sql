@@ -1,0 +1,1 @@
+drop proc Usp_NumberOfEmployeesByLocation
