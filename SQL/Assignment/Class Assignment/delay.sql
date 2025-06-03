@@ -1,0 +1,23 @@
+CREATE TABLE AccountsA (
+ID INT PRIMARY KEY,
+Balance DECIMAL(10,2)
+
+);
+
+CREATE TABLE AccountsB (
+ID INT PRIMARY KEY,
+Balance DECIMAL(10,2)
+
+);
+
+-- Insert test data
+INSERT INTO AccountsA VALUES (1, 1000.00);
+INSERT INTO AccountsB VALUES (1, 2000.00);
+
+BEGIN TRAN;
+
+UPDATE AccountsA SET Balance = Balance - 100 WHERE ID = 1;
+WAITFOR DELAY '00:00:05';
+UPDATE AccountsB SET Balance = Balance + 100 WHERE ID = 1;
+
+COMMIT;

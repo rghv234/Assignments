@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\HashtableAndArrayListDemo\HashtableAndArrayListDemo\bin\Debug\HashtableAndArrayListDemo.exe.config
+C:\Users\user\source\repos\HashtableAndArrayListDemo\HashtableAndArrayListDemo\bin\Debug\HashtableAndArrayListDemo.exe
+C:\Users\user\source\repos\HashtableAndArrayListDemo\HashtableAndArrayListDemo\bin\Debug\HashtableAndArrayListDemo.pdb
+C:\Users\user\source\repos\HashtableAndArrayListDemo\HashtableAndArrayListDemo\obj\Debug\HashtableAndArrayListDemo.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HashtableAndArrayListDemo\HashtableAndArrayListDemo\obj\Debug\HashtableAndArrayListDemo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HashtableAndArrayListDemo\HashtableAndArrayListDemo\obj\Debug\HashtableAndArrayListDemo.exe
+C:\Users\user\source\repos\HashtableAndArrayListDemo\HashtableAndArrayListDemo\obj\Debug\HashtableAndArrayListDemo.pdb
