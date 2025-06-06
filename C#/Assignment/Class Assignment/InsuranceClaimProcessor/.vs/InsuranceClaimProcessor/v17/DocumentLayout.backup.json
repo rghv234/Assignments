@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\InsuranceClaimProcessor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E25AABEA-B054-412C-A77D-F2E953FD16C0}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|c:\\users\\user\\source\\repos\\insuranceclaimprocessor\\insuranceclaimprocessor\\services\\claimprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25AABEA-B054-412C-A77D-F2E953FD16C0}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|solutionrelative:insuranceclaimprocessor\\services\\claimprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25AABEA-B054-412C-A77D-F2E953FD16C0}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|c:\\users\\user\\source\\repos\\insuranceclaimprocessor\\insuranceclaimprocessor\\models\\ipolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25AABEA-B054-412C-A77D-F2E953FD16C0}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|solutionrelative:insuranceclaimprocessor\\models\\ipolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25AABEA-B054-412C-A77D-F2E953FD16C0}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|c:\\users\\user\\source\\repos\\insuranceclaimprocessor\\insuranceclaimprocessor\\models\\iclaimevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25AABEA-B054-412C-A77D-F2E953FD16C0}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|solutionrelative:insuranceclaimprocessor\\models\\iclaimevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25AABEA-B054-412C-A77D-F2E953FD16C0}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|c:\\users\\user\\source\\repos\\insuranceclaimprocessor\\insuranceclaimprocessor\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25AABEA-B054-412C-A77D-F2E953FD16C0}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|solutionrelative:insuranceclaimprocessor\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25AABEA-B054-412C-A77D-F2E953FD16C0}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|c:\\users\\user\\source\\repos\\insuranceclaimprocessor\\insuranceclaimprocessor\\models\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25AABEA-B054-412C-A77D-F2E953FD16C0}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|solutionrelative:insuranceclaimprocessor\\models\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25AABEA-B054-412C-A77D-F2E953FD16C0}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|c:\\users\\user\\source\\repos\\insuranceclaimprocessor\\insuranceclaimprocessor\\models\\insurancetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25AABEA-B054-412C-A77D-F2E953FD16C0}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|solutionrelative:insuranceclaimprocessor\\models\\insurancetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E25AABEA-B054-412C-A77D-F2E953FD16C0}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|c:\\users\\user\\source\\repos\\insuranceclaimprocessor\\insuranceclaimprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E25AABEA-B054-412C-A77D-F2E953FD16C0}|InsuranceClaimProcessor\\InsuranceClaimProcessor.csproj|solutionrelative:insuranceclaimprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClaimProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\InsuranceClaimProcessor\\InsuranceClaimProcessor\\Services\\ClaimProcessor.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimProcessor\\Services\\ClaimProcessor.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\InsuranceClaimProcessor\\InsuranceClaimProcessor\\Services\\ClaimProcessor.cs",
+              "RelativeToolTip": "InsuranceClaimProcessor\\Services\\ClaimProcessor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:19:10.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClaimEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\InsuranceClaimProcessor\\InsuranceClaimProcessor\\Models\\IClaimEvaluator.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimProcessor\\Models\\IClaimEvaluator.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\InsuranceClaimProcessor\\InsuranceClaimProcessor\\Models\\IClaimEvaluator.cs",
+              "RelativeToolTip": "InsuranceClaimProcessor\\Models\\IClaimEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:12:22.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPolicyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\InsuranceClaimProcessor\\InsuranceClaimProcessor\\Models\\IPolicyRepository.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimProcessor\\Models\\IPolicyRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\InsuranceClaimProcessor\\InsuranceClaimProcessor\\Models\\IPolicyRepository.cs",
+              "RelativeToolTip": "InsuranceClaimProcessor\\Models\\IPolicyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:12:11.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\InsuranceClaimProcessor\\InsuranceClaimProcessor\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimProcessor\\Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\InsuranceClaimProcessor\\InsuranceClaimProcessor\\Models\\Claim.cs",
+              "RelativeToolTip": "InsuranceClaimProcessor\\Models\\Claim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:10:38.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Policy.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\InsuranceClaimProcessor\\InsuranceClaimProcessor\\Models\\Policy.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimProcessor\\Models\\Policy.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\InsuranceClaimProcessor\\InsuranceClaimProcessor\\Models\\Policy.cs",
+              "RelativeToolTip": "InsuranceClaimProcessor\\Models\\Policy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:10:27.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InsuranceType.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\InsuranceClaimProcessor\\InsuranceClaimProcessor\\Models\\InsuranceType.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimProcessor\\Models\\InsuranceType.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\InsuranceClaimProcessor\\InsuranceClaimProcessor\\Models\\InsuranceType.cs",
+              "RelativeToolTip": "InsuranceClaimProcessor\\Models\\InsuranceType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:10:16.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\InsuranceClaimProcessor\\InsuranceClaimProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "InsuranceClaimProcessor\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\InsuranceClaimProcessor\\InsuranceClaimProcessor\\Program.cs",
+              "RelativeToolTip": "InsuranceClaimProcessor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:08:23.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceClaimProcessor", "InsuranceClaimProcessor\InsuranceClaimProcessor.csproj", "{E25AABEA-B054-412C-A77D-F2E953FD16C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceClaimProcessorTests", "InsuranceClaimProcessorTests\InsuranceClaimProcessorTests.csproj", "{1041C71C-3DCE-4CFB-ACF6-1B5493A0913E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E25AABEA-B054-412C-A77D-F2E953FD16C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E25AABEA-B054-412C-A77D-F2E953FD16C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E25AABEA-B054-412C-A77D-F2E953FD16C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E25AABEA-B054-412C-A77D-F2E953FD16C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1041C71C-3DCE-4CFB-ACF6-1B5493A0913E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1041C71C-3DCE-4CFB-ACF6-1B5493A0913E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1041C71C-3DCE-4CFB-ACF6-1B5493A0913E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1041C71C-3DCE-4CFB-ACF6-1B5493A0913E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4AA691D-3457-402B-8A5D-D993FA623BFE}
+	EndGlobalSection
+EndGlobal
