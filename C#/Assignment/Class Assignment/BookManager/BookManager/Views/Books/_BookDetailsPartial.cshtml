@@ -1,0 +1,26 @@
+﻿@model BookManager.Models.Book
+
+<div class="book-details">
+    <h4>@Model.Title</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Author
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Author
+        </dd>
+        <dt class="col-sm-2">
+            Price
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Price.ToString("C")
+        </dd>
+        <dt class="col-sm-2">
+            Publication Year
+        </dt>
+        <dd class="col-sm-10">
+            @Model.PublicationYear
+        </dd>
+    </dl>
+</div>
