@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|c:\\users\\user\\source\\repos\\ef_codefirst_demo\\ef_codefirst_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|solutionrelative:ef_codefirst_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|c:\\users\\user\\source\\repos\\ef_codefirst_demo\\ef_codefirst_demo\\migrations\\20250611094459_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|solutionrelative:ef_codefirst_demo\\migrations\\20250611094459_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|c:\\users\\user\\source\\repos\\ef_codefirst_demo\\ef_codefirst_demo\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|solutionrelative:ef_codefirst_demo\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|c:\\users\\user\\source\\repos\\ef_codefirst_demo\\ef_codefirst_demo\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|solutionrelative:ef_codefirst_demo\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|c:\\users\\user\\source\\repos\\ef_codefirst_demo\\ef_codefirst_demo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|solutionrelative:ef_codefirst_demo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|c:\\users\\user\\source\\repos\\ef_codefirst_demo\\ef_codefirst_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|solutionrelative:ef_codefirst_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|c:\\users\\user\\source\\repos\\ef_codefirst_demo\\ef_codefirst_demo\\appsettings.development||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|solutionrelative:ef_codefirst_demo\\appsettings.development||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|c:\\users\\user\\source\\repos\\ef_codefirst_demo\\ef_codefirst_demo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|solutionrelative:ef_codefirst_demo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|c:\\users\\user\\source\\repos\\ef_codefirst_demo\\ef_codefirst_demo\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|solutionrelative:ef_codefirst_demo\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|c:\\users\\user\\source\\repos\\ef_codefirst_demo\\ef_codefirst_demo\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|solutionrelative:ef_codefirst_demo\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|c:\\users\\user\\source\\repos\\ef_codefirst_demo\\ef_codefirst_demo\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|solutionrelative:ef_codefirst_demo\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|c:\\users\\user\\source\\repos\\ef_codefirst_demo\\ef_codefirst_demo\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|solutionrelative:ef_codefirst_demo\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|c:\\users\\user\\source\\repos\\ef_codefirst_demo\\ef_codefirst_demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{232D6301-0123-45B6-99F1-A719DD947411}|EF_CodeFirst_Demo\\EF_CodeFirst_Demo.csproj|solutionrelative:ef_codefirst_demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250611094459_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\Migrations\\20250611094459_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst_Demo\\Migrations\\20250611094459_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\Migrations\\20250611094459_InitialCreate.cs",
+              "RelativeToolTip": "EF_CodeFirst_Demo\\Migrations\\20250611094459_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:44:59.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst_Demo\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EF_CodeFirst_Demo\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:04:31.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst_Demo\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\Models\\Department.cs",
+              "RelativeToolTip": "EF_CodeFirst_Demo\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:26:07.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst_Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\Program.cs",
+              "RelativeToolTip": "EF_CodeFirst_Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:30:43.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "EF_CodeFirst_Demo\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\appsettings.json",
+              "RelativeToolTip": "EF_CodeFirst_Demo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T07:26:43.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\appsettings.Development",
+              "RelativeDocumentMoniker": "EF_CodeFirst_Demo\\appsettings.Development",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\appsettings.Development",
+              "RelativeToolTip": "EF_CodeFirst_Demo\\appsettings.Development",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-11T06:33:04.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst_Demo\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\Models\\Employee.cs",
+              "RelativeToolTip": "EF_CodeFirst_Demo\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T04:44:43.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\DBContext\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst_Demo\\DBContext\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\DBContext\\ApplicationDBContext.cs",
+              "RelativeToolTip": "EF_CodeFirst_Demo\\DBContext\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:23:58.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "EF_CodeFirst_Demo\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "EF_CodeFirst_Demo\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T10:37:56.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "EF_CodeFirst_Demo\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "EF_CodeFirst_Demo\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAzwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:16:47.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\Views\\Department\\Details.cshtml",
+              "RelativeDocumentMoniker": "EF_CodeFirst_Demo\\Views\\Department\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\Views\\Department\\Details.cshtml",
+              "RelativeToolTip": "EF_CodeFirst_Demo\\Views\\Department\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T10:33:49.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "EF_CodeFirst_Demo\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "EF_CodeFirst_Demo\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T10:29:41.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EF_CodeFirst_Demo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EF_CodeFirst_Demo\\EF_CodeFirst_Demo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EF_CodeFirst_Demo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T10:30:18.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

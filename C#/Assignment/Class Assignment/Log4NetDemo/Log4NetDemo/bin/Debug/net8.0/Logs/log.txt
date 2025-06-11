@@ -1,0 +1,16 @@
+2025-06-10 11:16:10,772 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7222
+2025-06-10 11:16:10,783 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5042
+2025-06-10 11:16:10,827 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-06-10 11:16:10,828 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-06-10 11:16:10,830 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\user\source\repos\Log4NetDemo\Log4NetDemo
+2025-06-10 11:16:12,587 [14] INFO  Log4NetDemo.Controllers.HomeController - Home Index visited
+2025-06-10 11:16:12,592 [14] ERROR Log4NetDemo.Controllers.HomeController - Demo error log for testing log4net
+2025-06-10 11:19:24,330 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7222
+2025-06-10 11:19:24,341 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5042
+2025-06-10 11:19:24,383 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-06-10 11:19:24,385 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-06-10 11:19:24,388 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\user\source\repos\Log4NetDemo\Log4NetDemo
+2025-06-10 11:19:24,836 [14] INFO  Log4NetDemo.Controllers.HomeController - Home Index visited
+2025-06-10 11:19:24,840 [14] ERROR Log4NetDemo.Controllers.HomeController - Demo error log for testing log4net
+2025-06-10 11:19:36,687 [22] INFO  Log4NetDemo.Controllers.HomeController - Home Index visited
+2025-06-10 11:19:36,689 [22] ERROR Log4NetDemo.Controllers.HomeController - Demo error log for testing log4net
