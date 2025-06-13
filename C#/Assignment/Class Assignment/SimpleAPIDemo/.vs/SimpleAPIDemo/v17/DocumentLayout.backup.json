@@ -3,28 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|c:\\users\\user\\source\\repos\\simpleapidemo\\simpleapidemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|solutionrelative:simpleapidemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|c:\\users\\user\\source\\repos\\simpleapidemo\\simpleapidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|solutionrelative:simpleapidemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|c:\\users\\user\\source\\repos\\simpleapidemo\\simpleapidemo\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|solutionrelative:simpleapidemo\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|c:\\users\\user\\source\\repos\\simpleapidemo\\simpleapidemo\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|solutionrelative:simpleapidemo\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|c:\\users\\user\\source\\repos\\simpleapidemo\\simpleapidemo\\migrations\\20250613104407_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|solutionrelative:simpleapidemo\\migrations\\20250613104407_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|c:\\users\\user\\source\\repos\\simpleapidemo\\simpleapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|solutionrelative:simpleapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|c:\\users\\user\\source\\repos\\simpleapidemo\\simpleapidemo\\simpleapidemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|solutionrelative:simpleapidemo\\simpleapidemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|c:\\users\\user\\source\\repos\\simpleapidemo\\simpleapidemo\\contexts\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|solutionrelative:simpleapidemo\\contexts\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|c:\\users\\user\\source\\repos\\simpleapidemo\\simpleapidemo\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|solutionrelative:simpleapidemo\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|c:\\users\\user\\source\\repos\\simpleapidemo\\simpleapidemo\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|solutionrelative:simpleapidemo\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|c:\\users\\user\\source\\repos\\simpleapidemo\\simpleapidemo\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|solutionrelative:simpleapidemo\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|c:\\users\\user\\source\\repos\\simpleapidemo\\simpleapidemo\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|solutionrelative:simpleapidemo\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|c:\\users\\user\\source\\repos\\simpleapidemo\\simpleapidemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|solutionrelative:simpleapidemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|c:\\users\\user\\source\\repos\\simpleapidemo\\simpleapidemo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|solutionrelative:simpleapidemo\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|c:\\users\\user\\source\\repos\\simpleapidemo\\simpleapidemo\\simpleapidemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|solutionrelative:simpleapidemo\\simpleapidemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|c:\\users\\user\\source\\repos\\simpleapidemo\\simpleapidemo\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|solutionrelative:simpleapidemo\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|c:\\users\\user\\source\\repos\\simpleapidemo\\simpleapidemo\\models\\productsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|solutionrelative:simpleapidemo\\models\\productsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|c:\\users\\user\\source\\repos\\simpleapidemo\\simpleapidemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|solutionrelative:simpleapidemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD325F5F-5191-46EA-ACE5-6698252B22C9}|SimpleAPIDemo\\SimpleAPIDemo.csproj|c:\\users\\user\\source\\repos\\simpleapidemo\\simpleapidemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,60 +74,177 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "20250613104407_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Migrations\\20250613104407_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SimpleAPIDemo\\Migrations\\20250613104407_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Migrations\\20250613104407_InitialCreate.cs",
+              "RelativeToolTip": "SimpleAPIDemo\\Migrations\\20250613104407_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:44:08.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "SimpleAPIDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\appsettings.json",
+              "RelativeToolTip": "SimpleAPIDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T10:43:22.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Program.cs",
               "RelativeDocumentMoniker": "SimpleAPIDemo\\Program.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Program.cs",
               "RelativeToolTip": "SimpleAPIDemo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T06:05:41.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "SimpleAPIDemo\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "SimpleAPIDemo\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "SimpleAPIDemo\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "SimpleAPIDemo\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T06:10:32.524Z",
+              "WhenOpened": "2025-06-13T10:34:13.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "SimpleAPIDemo\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Services\\ProductService.cs",
-              "RelativeToolTip": "SimpleAPIDemo\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Contexts\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "SimpleAPIDemo\\Contexts\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Contexts\\ApplicationContext.cs",
+              "RelativeToolTip": "SimpleAPIDemo\\Contexts\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T06:17:00.009Z",
+              "WhenOpened": "2025-06-13T07:16:33.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "SimpleAPIDemo\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Services\\CategoryService.cs",
+              "RelativeToolTip": "SimpleAPIDemo\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:32:40.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "SimpleAPIDemo\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "SimpleAPIDemo\\Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:32:04.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Services\\IProductService.cs",
               "RelativeDocumentMoniker": "SimpleAPIDemo\\Services\\IProductService.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Services\\IProductService.cs",
               "RelativeToolTip": "SimpleAPIDemo\\Services\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T06:13:55.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SimpleAPIDemo",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SimpleAPIDemo\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Models\\Product.cs",
+              "RelativeToolTip": "SimpleAPIDemo\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:09:04.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SimpleAPIDemo\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Models\\Category.cs",
+              "RelativeToolTip": "SimpleAPIDemo\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T10:28:29.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductSearch.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Models\\ProductSearch.cs",
+              "RelativeDocumentMoniker": "SimpleAPIDemo\\Models\\ProductSearch.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Models\\ProductSearch.cs",
+              "RelativeToolTip": "SimpleAPIDemo\\Models\\ProductSearch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:01:03.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SimpleAPIDemo\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SimpleAPIDemo\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAkwEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:10:32.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "SimpleAPIDemo\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Services\\ProductService.cs",
+              "RelativeToolTip": "SimpleAPIDemo\\Services\\ProductService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T06:17:00.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SimpleAPIDemo.csproj",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\SimpleAPIDemo.csproj",
               "RelativeDocumentMoniker": "SimpleAPIDemo\\SimpleAPIDemo.csproj",
               "ToolTip": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\SimpleAPIDemo.csproj",
@@ -107,20 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "SimpleAPIDemo\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\Models\\Product.cs",
-              "RelativeToolTip": "SimpleAPIDemo\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T06:09:04.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SimpleAPIDemo\\SimpleAPIDemo\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "SimpleAPIDemo\\WeatherForecast.cs",

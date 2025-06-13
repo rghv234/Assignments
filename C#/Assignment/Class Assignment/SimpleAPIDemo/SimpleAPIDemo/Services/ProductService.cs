@@ -1,4 +1,6 @@
-﻿namespace SimpleAPIDemo.Services
+﻿using SimpleAPIDemo.Models;
+
+namespace SimpleAPIDemo.Services
 {
     public class ProductService : IProductService
     {
@@ -31,6 +33,16 @@
                 product.Price = updatedProduct.Price;
             }
         }
+        public List<Product> GetProductsByPrice(int price)
+        {
+            var productList = _products.Where(p => p.Price == price).ToList();
+            return productList;
+        }
+        public List<Product> GetProductsByName(string name)
+        {
+            var productList = _products.Where(p => p.Name.Contains(name, StringComparison.OrdinalIgnoreCase)).ToList();
+            return productList;
+        }
         public void DeleteProduct(int id)
         {
             var product = GetProduct(id);
@@ -39,5 +51,29 @@
                 _products.Remove(product);
             }
         }
+        public IEnumerable<Product>? SearchProducts(ProductSearch search)
+        {
+            var filteredProducts = _products.AsEnumerable();
+
+            if (!string.IsNullOrEmpty(search.Name))
+            {
+                filteredProducts = filteredProducts
+                    .Where(p => p.Name.Equals(search.Name, StringComparison.OrdinalIgnoreCase));
+            }
+
+            if (search.Price.HasValue)
+            {
+                filteredProducts = filteredProducts
+                    .Where(p => p.Price == search.Price.Value);
+            }
+
+            if (!filteredProducts.Any())
+            {
+                return null;
+            }
+
+            return filteredProducts;
+        }
+
     }
 }

@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using SimpleAPIDemo.Contexts;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -7,8 +10,15 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddDbContext<ApplicationContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
 // Register the ProductService as a singleton service
 builder.Services.AddSingleton<SimpleAPIDemo.Services.IProductService, SimpleAPIDemo.Services.ProductService>();
+
+// Register the CategoryService as a singleton service
+builder.Services.AddSingleton<SimpleAPIDemo.Services.ICategoryService, SimpleAPIDemo.Services.CategoryService>();
 
 var app = builder.Build();
 
