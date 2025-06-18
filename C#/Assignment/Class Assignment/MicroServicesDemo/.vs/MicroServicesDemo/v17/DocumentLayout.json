@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{093EC86C-6ECC-4737-ABCA-25F36322AAFD}|APIGateway\\APIGateway.csproj|c:\\users\\user\\source\\repos\\microservicesdemo\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093EC86C-6ECC-4737-ABCA-25F36322AAFD}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D837D9-8C9F-40BC-B6A6-B3B6EA4640D1}|OrderService\\OrderServices.csproj|c:\\users\\user\\source\\repos\\microservicesdemo\\orderservice\\orderservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79D837D9-8C9F-40BC-B6A6-B3B6EA4640D1}|OrderService\\OrderServices.csproj|solutionrelative:orderservice\\orderservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093EC86C-6ECC-4737-ABCA-25F36322AAFD}|APIGateway\\APIGateway.csproj|c:\\users\\user\\source\\repos\\microservicesdemo\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{093EC86C-6ECC-4737-ABCA-25F36322AAFD}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093EC86C-6ECC-4737-ABCA-25F36322AAFD}|APIGateway\\APIGateway.csproj|c:\\users\\user\\source\\repos\\microservicesdemo\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{093EC86C-6ECC-4737-ABCA-25F36322AAFD}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D837D9-8C9F-40BC-B6A6-B3B6EA4640D1}|OrderService\\OrderService.csproj|c:\\users\\user\\source\\repos\\microservicesdemo\\orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D837D9-8C9F-40BC-B6A6-B3B6EA4640D1}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E772C81-7F8E-4506-BB76-C48098CADBF7}|MicroServicesDemo\\MicroServicesDemo.csproj|c:\\users\\user\\source\\repos\\microservicesdemo\\microservicesdemo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E772C81-7F8E-4506-BB76-C48098CADBF7}|MicroServicesDemo\\MicroServicesDemo.csproj|solutionrelative:microservicesdemo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093EC86C-6ECC-4737-ABCA-25F36322AAFD}|APIGateway\\APIGateway.csproj|c:\\users\\user\\source\\repos\\microservicesdemo\\apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{093EC86C-6ECC-4737-ABCA-25F36322AAFD}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D837D9-8C9F-40BC-B6A6-B3B6EA4640D1}|OrderService\\OrderService.csproj|c:\\users\\user\\source\\repos\\microservicesdemo\\orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D837D9-8C9F-40BC-B6A6-B3B6EA4640D1}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D837D9-8C9F-40BC-B6A6-B3B6EA4640D1}|OrderService\\OrderService.csproj|c:\\users\\user\\source\\repos\\microservicesdemo\\orderservice\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D837D9-8C9F-40BC-B6A6-B3B6EA4640D1}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D837D9-8C9F-40BC-B6A6-B3B6EA4640D1}|OrderService\\OrderService.csproj|c:\\users\\user\\source\\repos\\microservicesdemo\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D837D9-8C9F-40BC-B6A6-B3B6EA4640D1}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E772C81-7F8E-4506-BB76-C48098CADBF7}|MicroServicesDemo\\MicroServicesDemo.csproj|c:\\users\\user\\source\\repos\\microservicesdemo\\microservicesdemo\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E772C81-7F8E-4506-BB76-C48098CADBF7}|MicroServicesDemo\\MicroServicesDemo.csproj|solutionrelative:microservicesdemo\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E772C81-7F8E-4506-BB76-C48098CADBF7}|MicroServicesDemo\\MicroServicesDemo.csproj|c:\\users\\user\\source\\repos\\microservicesdemo\\microservicesdemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E772C81-7F8E-4506-BB76-C48098CADBF7}|MicroServicesDemo\\MicroServicesDemo.csproj|solutionrelative:microservicesdemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D837D9-8C9F-40BC-B6A6-B3B6EA4640D1}|OrderService\\OrderService.csproj|c:\\users\\user\\source\\repos\\microservicesdemo\\orderservice\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D837D9-8C9F-40BC-B6A6-B3B6EA4640D1}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E772C81-7F8E-4506-BB76-C48098CADBF7}|MicroServicesDemo\\MicroServicesDemo.csproj|c:\\users\\user\\source\\repos\\microservicesdemo\\microservicesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E772C81-7F8E-4506-BB76-C48098CADBF7}|MicroServicesDemo\\MicroServicesDemo.csproj|solutionrelative:microservicesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E772C81-7F8E-4506-BB76-C48098CADBF7}|MicroServicesDemo\\MicroServicesDemo.csproj|c:\\users\\user\\source\\repos\\microservicesdemo\\microservicesdemo\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E772C81-7F8E-4506-BB76-C48098CADBF7}|MicroServicesDemo\\MicroServicesDemo.csproj|solutionrelative:microservicesdemo\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E772C81-7F8E-4506-BB76-C48098CADBF7}|MicroServicesDemo\\ProductServices.csproj|c:\\users\\user\\source\\repos\\microservicesdemo\\microservicesdemo\\productservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E772C81-7F8E-4506-BB76-C48098CADBF7}|MicroServicesDemo\\ProductServices.csproj|solutionrelative:microservicesdemo\\productservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\APIGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIGateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\APIGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T12:26:27.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\APIGateway\\Program.cs",
+              "RelativeDocumentMoniker": "APIGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\APIGateway\\Program.cs",
+              "RelativeToolTip": "APIGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T12:02:11.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\APIGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "APIGateway\\ocelot.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\APIGateway\\ocelot.json",
+              "RelativeToolTip": "APIGateway\\ocelot.json",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T12:01:16.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\OrderService\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderService\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\OrderService\\Services\\OrderService.cs",
+              "RelativeToolTip": "OrderService\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:43:06.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\OrderService\\Program.cs",
+              "RelativeToolTip": "OrderService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:44:23.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\OrderService\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrderService\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\OrderService\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrderService\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:43:42.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderServices.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\OrderService\\OrderServices.csproj",
+              "RelativeDocumentMoniker": "OrderService\\OrderServices.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\OrderService\\OrderServices.csproj",
+              "RelativeToolTip": "OrderService\\OrderServices.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T11:40:33.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\MicroServicesDemo\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MicroServicesDemo\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\MicroServicesDemo\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MicroServicesDemo\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:26:39.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "APIGateway",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\APIGateway\\APIGateway.csproj",
+              "RelativeDocumentMoniker": "APIGateway\\APIGateway.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\APIGateway\\APIGateway.csproj",
+              "RelativeToolTip": "APIGateway\\APIGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T12:02:20.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\OrderService\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderService\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\OrderService\\Models\\Order.cs",
+              "RelativeToolTip": "OrderService\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:42:13.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\OrderService\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "OrderService\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\OrderService\\Services\\IOrderService.cs",
+              "RelativeToolTip": "OrderService\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:42:39.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\MicroServicesDemo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MicroServicesDemo\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\MicroServicesDemo\\Models\\Product.cs",
+              "RelativeToolTip": "MicroServicesDemo\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:28:42.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\MicroServicesDemo\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MicroServicesDemo\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\MicroServicesDemo\\Services\\ProductService.cs",
+              "RelativeToolTip": "MicroServicesDemo\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:30:11.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\MicroServicesDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MicroServicesDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\MicroServicesDemo\\Program.cs",
+              "RelativeToolTip": "MicroServicesDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:44:46.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\MicroServicesDemo\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "MicroServicesDemo\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\MicroServicesDemo\\Services\\IProductService.cs",
+              "RelativeToolTip": "MicroServicesDemo\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:37:48.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductServices.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\MicroServicesDemo\\ProductServices.csproj",
+              "RelativeDocumentMoniker": "MicroServicesDemo\\ProductServices.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\MicroServicesDemo\\MicroServicesDemo\\ProductServices.csproj",
+              "RelativeToolTip": "MicroServicesDemo\\ProductServices.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T11:27:36.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

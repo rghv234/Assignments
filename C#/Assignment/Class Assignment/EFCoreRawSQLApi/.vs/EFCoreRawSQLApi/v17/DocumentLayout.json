@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\EFCoreRawSQLApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00CD1563-1289-451A-A2D9-B0282864521B}|EFCoreRawSQLApi\\EFCoreRawSQLApi.csproj|c:\\users\\user\\source\\repos\\efcorerawsqlapi\\efcorerawsqlapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CD1563-1289-451A-A2D9-B0282864521B}|EFCoreRawSQLApi\\EFCoreRawSQLApi.csproj|solutionrelative:efcorerawsqlapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CD1563-1289-451A-A2D9-B0282864521B}|EFCoreRawSQLApi\\EFCoreRawSQLApi.csproj|c:\\users\\user\\source\\repos\\efcorerawsqlapi\\efcorerawsqlapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CD1563-1289-451A-A2D9-B0282864521B}|EFCoreRawSQLApi\\EFCoreRawSQLApi.csproj|solutionrelative:efcorerawsqlapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CD1563-1289-451A-A2D9-B0282864521B}|EFCoreRawSQLApi\\EFCoreRawSQLApi.csproj|c:\\users\\user\\source\\repos\\efcorerawsqlapi\\efcorerawsqlapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CD1563-1289-451A-A2D9-B0282864521B}|EFCoreRawSQLApi\\EFCoreRawSQLApi.csproj|solutionrelative:efcorerawsqlapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CD1563-1289-451A-A2D9-B0282864521B}|EFCoreRawSQLApi\\EFCoreRawSQLApi.csproj|c:\\users\\user\\source\\repos\\efcorerawsqlapi\\efcorerawsqlapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00CD1563-1289-451A-A2D9-B0282864521B}|EFCoreRawSQLApi\\EFCoreRawSQLApi.csproj|solutionrelative:efcorerawsqlapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CD1563-1289-451A-A2D9-B0282864521B}|EFCoreRawSQLApi\\EFCoreRawSQLApi.csproj|c:\\users\\user\\source\\repos\\efcorerawsqlapi\\efcorerawsqlapi\\efcorerawsqlapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00CD1563-1289-451A-A2D9-B0282864521B}|EFCoreRawSQLApi\\EFCoreRawSQLApi.csproj|solutionrelative:efcorerawsqlapi\\efcorerawsqlapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00CD1563-1289-451A-A2D9-B0282864521B}|EFCoreRawSQLApi\\EFCoreRawSQLApi.csproj|c:\\users\\user\\source\\repos\\efcorerawsqlapi\\efcorerawsqlapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CD1563-1289-451A-A2D9-B0282864521B}|EFCoreRawSQLApi\\EFCoreRawSQLApi.csproj|solutionrelative:efcorerawsqlapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EFCoreRawSQLApi\\EFCoreRawSQLApi\\appsettings.json",
+              "RelativeDocumentMoniker": "EFCoreRawSQLApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EFCoreRawSQLApi\\EFCoreRawSQLApi\\appsettings.json",
+              "RelativeToolTip": "EFCoreRawSQLApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T09:43:20.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EFCoreRawSQLApi\\EFCoreRawSQLApi\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreRawSQLApi\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EFCoreRawSQLApi\\EFCoreRawSQLApi\\Program.cs",
+              "RelativeToolTip": "EFCoreRawSQLApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:41:39.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EFCoreRawSQLApi\\EFCoreRawSQLApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EFCoreRawSQLApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EFCoreRawSQLApi\\EFCoreRawSQLApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EFCoreRawSQLApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:39:11.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EFCoreRawSQLApi\\EFCoreRawSQLApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EFCoreRawSQLApi\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EFCoreRawSQLApi\\EFCoreRawSQLApi\\Models\\Product.cs",
+              "RelativeToolTip": "EFCoreRawSQLApi\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:39:33.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EFCoreRawSQLApi",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EFCoreRawSQLApi\\EFCoreRawSQLApi\\EFCoreRawSQLApi.csproj",
+              "RelativeDocumentMoniker": "EFCoreRawSQLApi\\EFCoreRawSQLApi.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EFCoreRawSQLApi\\EFCoreRawSQLApi\\EFCoreRawSQLApi.csproj",
+              "RelativeToolTip": "EFCoreRawSQLApi\\EFCoreRawSQLApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T09:38:41.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\EFCoreRawSQLApi\\EFCoreRawSQLApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "EFCoreRawSQLApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\EFCoreRawSQLApi\\EFCoreRawSQLApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "EFCoreRawSQLApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:38:25.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
