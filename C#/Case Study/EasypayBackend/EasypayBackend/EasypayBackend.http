@@ -1,0 +1,6 @@
+@EasypayBackend_HostAddress = http://localhost:5269
+
+GET {{EasypayBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,6 @@
+projectKey=easypay-backend
+serverUrl=http://localhost:9000
+serverVersion=25.6.0.109173
+dashboardUrl=http://localhost:9000/dashboard?id=easypay-backend
+ceTaskId=00657111-5dd1-4a27-822c-b63156168ee4
+ceTaskUrl=http://localhost:9000/api/ce/task?id=00657111-5dd1-4a27-822c-b63156168ee4
