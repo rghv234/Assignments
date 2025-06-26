@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function changeHeading() {
+            document.getElementById("heading").innerText = "New Heading";
+        }
+        function submitForm() {
+            const firstName = document.getElementById("firstName").value;
+            const lastName = document.getElementById("lastName").value;
+            if (firstName === "") {
+                alert("Please enter your first name.");
+                return false;
+            }
+            if (lastName === "") {
+                alert("Please enter your last name.");
+                return false;
+            }
+            alert("your name is " + firstName + " " + lastName);
+            return true;
+        }
+    </script>
+    <h1 id="heading">Demo</h1>
+    <form>
+        <label for="firstName">First Name:</label>
+        <input type="text" id="firstName" name="firstName"><br><br>
+        
+        <label for="lastName">Last Name:</label>
+        <input type="text" id="lastName" name="lastName"><br><br>
+        
+        <button type="button" onclick="changeHeading()">Change Heading</button>
+        <button type="submit" onclick="return submitForm()">Submit</button>
+    </form>
+</body>
+</html>
